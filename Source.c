@@ -1,4 +1,4 @@
-//vapoate. nume, culoare, an fabricatie, categorie(de croaziera=nr clase & de marfa=capacitate). 
+//vapoaee. nume, culoare, an fabricatie, categorie(de croaziera=nr clase & de marfa=capacitate). 
 //citire, afisare, cautare dupa capacitate, dupa an, dupa nume, sortare dupa nume, stergere dupa culoare, matrice dp an fab
 
 #include<stdio.h>
